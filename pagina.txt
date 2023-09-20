@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es"> 
+    <head>
+        
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content = "IE=edge">
+        <meta name ="viewport" content ="width=device-width, initial-scale=1.0">
+        <title>Primer página HTML5</title>
+    </head>
+    <body>
+        <header>
+            logo
+            <h1>nombre página / aplicación </h1>
+            buscador
+            menu de navegacion
+            <NAV>
+                <UL></UL>
+                    <li>Inicio</li>
+                    <li>Compras</li>
+                    <li>Ventas</li>
+                    <li>Facturas</li>
+                    <li>Iniciar sesion</li>
+                    <li>Sailr</li>
+            </NAV>
+        </header>
+        <article></article>
+            <article></article>
+        <footer>
+            copy
+            direccion empresa
+            contacto
+            correos electronicos
+            resumen de las secciones de la pagina
+        </footer>
+        <main>
+            <aside>
+                informacion tangencial de la pagina
+            </aside>
+        </main>
+        Primer <br>
+        pagina HTML
+        <h1>titulo</h1>
+        <h2>titulooo</h2>
+        <div>No lo usen</div>
+        <a href="https:youtube.com" target="_blank">Tec de culiacan</a>
+        <u>Subrayado</u>
+        <b>Negritas</b>
+        <i>Italica</i>
+        <span></span>
+        <hr>
+        <hr>
+
+        <hr><hr><hr><hr><hr>
+        <ol>
+            <li> Elemento</li>
+        </ol>
+        <ul>
+            <li> Elemento</li>
+        </ul>
+        <table>
+            <caption> Mi tabla</caption>
+            <thead>
+                <tr>
+                    <th>Campo 1</th>
+                    <th>Campo 2</th>
+                </tr>
+            </thead>
+            <body>
+                <tr>
+                    <td>Dato 1</td>
+                    <td>Dato 2</td>
+                </tr>
+
+            </body>
+        </table>
+        <strong>Negritas</strong>
+        <img src="https://imgs.search.brave.com/K0nIC6weOrNSdG3nn3R3iTb3iZaQoBvCSPkyCXUb9V4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzAzLzEyLzA1/LzM2MF9GXzUwMzEy/MDUzNF9WQmcyMDFI/ekltZDgwNVFRZllk/ZU90YktVb3dVSVIw/bi5qcGc">
+    </body>
+</html>
