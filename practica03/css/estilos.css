@@ -13,11 +13,14 @@ body{
 
 }
 header nav ul li{
-    color:white;
+    
     display: inline-block;
-    padding: 8px 10px;
+    padding: 8px 14px;
     text-align: center;
     width: 17.0%;
+}
+header ul{
+    margin-left: -70px;
 }
 header nav ul li:nth-child(2){
     background-color: #B3CF52;
@@ -44,10 +47,67 @@ header nav li{
     color: white;
 }
 .letra-gris{
-    color:#545454;
+    color:#949494;
 }
-section{
-    
-    background-color: #2B2B2B;
-    
+.letra-azul{
+    color: lightblue;
+}
+section,footer{
+    background: #2B2B2B;
+}
+section article{
+    border: 1px solid #D42D3F;
+    display: inline-block;
+    vertical-align: top;
+    height: 280px;
+    width: 17.9%;
+    padding: 18px 8px;
+}
+section article:nth-child(2){
+    background: #B3CF52;
+}
+section article:nth-child(3){
+    background: #353535;
+}
+section article:nth-child(4){
+    background: #D42D3F;
+}
+section article:nth-child(5){
+    background: #E4E4E4;
+}
+section article img{
+    width: 150px;
+    display: inline-block;
+    margin-top:20px;
+    padding:10px;
+    vertical-align: top;
+}
+section article ul{
+    list-style: none;
+}
+section article ul li{
+    margin-bottom: 10px;
+}
+hr{
+    color: #949494;
+    border-style: dashed;
+}
+.tam-menu{
+    font-size:1.1em;
+}
+.tam-tarjetas{
+    font-size: 1.7em;
+}
+footer article{
+    width: 31.1%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    padding: 10px;
+}
+footer img{
+    width: 300px;
+}
+.read-more{
+    margin-left: 220px;
 }
